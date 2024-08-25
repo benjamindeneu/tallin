@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tallinn Points of Interest Map</title>
+    <style>
+        #map {
+            height: 600px;
+            width: 100%;
+        }
+        .popup-content {
+            max-width: 200px;
+        }
+        .description {
+            display: none;
+        }
+        .show-description:checked ~ .description {
+            display: block;
+        }
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+
+<h1>Tallinn Points of Interest Map</h1>
+<div id="map"></div>
+
+<script>
+    // Initialize the map
+    var map = L.map('map').setView([59.437, 24.7536], 13);
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+    }).addTo(map);
+
+    // Fetch the JSON data
+    fetch('points.json')
+        .then(response => response.json())
+        .then(data => {
+            data.forEach(point => {
+                // Create a marker for each point
+                var marker = L.marker([point.latitude, point.longitude]).addTo(map);
+
+                // Create the popup content with a button to toggle the description
+                var popupContent = `
+                    <div class="popup-content">
+                        <strong>${point.name}</strong><br>
+                        <input type="checkbox" class="show-description" id="desc-${point.name.replace(/\s+/g, '')}">
+                        <label for="desc-${point.name.replace(/\s+/g, '')}">Show Description</label>
+                        <div class="description">${point.description}</div>
+                    </div>
+                `;
+
+                // Bind the popup to the marker
+                marker.bindPopup(popupContent);
+            });
+        })
+        .catch(error => console.error('Error loading the JSON file:', error));
+</script>
+
+</body>
+</html>
