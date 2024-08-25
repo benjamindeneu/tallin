@@ -100,5 +100,52 @@
         "latitude": 59.43726,
         "longitude": 24.744997,
         "description": "Located in the corner of the Town Hall Square, Raeapteek is one of the oldest continuously operating pharmacies in Europe, dating back to at least 1422. The pharmacy has been in operation for nearly 600 years and today doubles as a museum, showcasing antique pharmaceutical instruments, original remedies, and the history of medicine. The Raeapteek not only continues to serve its original purpose but also offers visitors a unique look into the medical practices of the past, with its interior preserved to reflect the historical operation of a pharmacy."
+    },{
+        "name": "Kumu Art Museum",
+        "latitude": 59.438771,
+        "longitude": 24.795050,
+        "description": "Kumu Art Museum is Estonia's largest and most prestigious art museum, part of the Art Museum of Estonia. Opened in 2006, the museum is a striking modern building located within Kadriorg Park. It hosts an extensive collection of Estonian art from the 18th century onwards, as well as contemporary exhibitions from both local and international artists."
+    },
+    {
+        "name": "Telliskivi Creative City",
+        "latitude": 59.438060,
+        "longitude": 24.728120,
+        "description": "Telliskivi Creative City is a vibrant, repurposed industrial complex that has become a hub for creativity and innovation in Tallinn. Located just outside the Old Town, Telliskivi is home to numerous design shops, galleries, studios, and cafes, as well as the popular Fotografiska Tallinn, a branch of the famous Swedish photography museum."
+    },
+    {
+        "name": "Linnahall",
+        "latitude": 59.444181,
+        "longitude": 24.753194,
+        "description": "Linnahall is a massive, Brutalist-style structure located on the waterfront in Tallinn. Built for the 1980 Moscow Olympics, it has fallen into disuse but remains an iconic example of Soviet-era architecture. Despite its derelict state, Linnahall attracts photographers and urban explorers fascinated by its unique aesthetic and historical significance."
+    },
+    {
+        "name": "Balti Jaam Market",
+        "latitude": 59.437710,
+        "longitude": 24.736360,
+        "description": "The Balti Jaam Market is a lively and modern market located next to Tallinn's main railway station. Recently renovated, the market offers a mix of fresh produce, street food, antiques, and crafts. It's a great place to experience local Estonian culture and cuisine, with a variety of vendors selling everything from traditional black bread to handmade souvenirs."
+    },
+    {
+        "name": "Patarei Prison",
+        "latitude": 59.451311,
+        "longitude": 24.748441,
+        "description": "Patarei Prison is a former sea fortress and later a notorious prison that was operational from the 19th century until 2002. Today, it stands as a chilling reminder of Estonia’s turbulent history under Soviet and Nazi occupations. The prison is partially open to the public, offering guided tours that delve into its dark past."
+    },
+    {
+        "name": "Pirita Convent Ruins",
+        "latitude": 59.474622,
+        "longitude": 24.829815,
+        "description": "The Pirita Convent Ruins are the remnants of a 15th-century monastery located in the district of Pirita, northeast of central Tallinn. The convent was one of the largest in the Baltic region before it was destroyed during the Livonian War in the 16th century. Today, the ruins are a serene and picturesque historical site, hosting occasional cultural events and concerts."
+    },
+    {
+        "name": "Kalamaja District",
+        "latitude": 59.446588,
+        "longitude": 24.728985,
+        "description": "Kalamaja is one of Tallinn's oldest and most distinctive districts, known for its colorful wooden houses and bohemian atmosphere. Originally a fishing village, Kalamaja has transformed into a trendy neighborhood filled with creative spaces, hip cafes, and local boutiques, making it a popular area for both locals and tourists to explore."
+    },
+    {
+        "name": "Rotermann Quarter",
+        "latitude": 59.439083,
+        "longitude": 24.757555,
+        "description": "Rotermann Quarter is a redeveloped industrial area located between the Old Town and the harbor. The quarter has become one of Tallinn's most modern districts, blending historical architecture with contemporary design. It's a vibrant area filled with shopping, dining, and cultural experiences, making it a prime spot for urban exploration."
     }
 ]
