@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Great Guild Hall",
+        "latitude": 59.437009,
+        "longitude": 24.7445,
+        "description": "The Great Guild Hall, constructed in 1410, served as the meeting place for the Great Guild, a brotherhood of Tallinn's wealthy merchants. Throughout the centuries, it has been a center of commerce and social life in Tallinn. The building is a classic example of Gothic architecture, with distinctive vaulted ceilings and a grand facade that reflects the power and wealth of Tallinn's medieval merchant class. It now houses the Estonian History Museum, which offers insights into Estonia's dramatic history, from medieval times to the Soviet era and the re-establishment of Estonian independence in 1991."
+    },
+    {
+        "name": "Vanalinn (Old Town)",
+        "latitude": 59.43696,
+        "longitude": 24.75353,
+        "description": "Recognized as a UNESCO World Heritage site, Tallinn's Old Town, known as Vanalinn, is one of the best-preserved medieval cities in Europe. The area's development began in the early 13th century when it became a key trading hub on the Baltic Sea, under the influence of the Hanseatic League. The Old Town is characterized by its cobblestone streets, medieval churches, and the remnants of the city walls that once protected it. Notable structures include the Town Hall and St. Olav’s Church, whose spire was once the tallest in the world."
+    },
+    {
+        "name": "Tallinn City Walls",
+        "latitude": 59.435911,
+        "longitude": 24.748,
+        "description": "The construction of Tallinn's city walls began in the 13th century to protect the city from potential invaders. Over time, the walls were expanded and reinforced, resulting in a fortification system that included 46 towers and stretched for nearly 2.4 kilometers by the 16th century. Today, about 1.9 kilometers of the original wall still stands, along with 20 towers, serving as a testament to Tallinn’s historical strategic importance and its ability to preserve its past."
+    },
+    {
+        "name": "House of the Brotherhood of Blackheads",
+        "latitude": 59.437024,
+        "longitude": 24.7502,
+        "description": "Built in the 14th century, the House of the Brotherhood of Blackheads was originally established as a venue for the Brotherhood of Blackheads, a guild for unmarried merchants, ship captains, and foreigners. The building is renowned for its ornate door, which is richly decorated with sculptures and reliefs, symbolizing the wealth and influence of the brotherhood. This historical building reflects the economic and social life of medieval Tallinn and its role in the Hanseatic League."
+    },
+    {
+        "name": "Tallinn Town Hall",
+        "latitude": 59.437222,
+        "longitude": 24.745278,
+        "description": "Erected in 1404, Tallinn Town Hall is the only surviving Gothic town hall in Northern Europe and serves as a symbol of the city’s rich medieval heritage. The town hall's architecture features a distinctive façade with a tower that houses Tallinn's famous weather vane, Old Thomas, which has become an emblem of the city. The hall was the center of political and economic power in medieval Tallinn, hosting guild meetings, feasts, and serving as the courtroom."
+    },
+    {
+        "name": "Alexander Nevsky Cathedral",
+        "latitude": 59.437403,
+        "longitude": 24.739583,
+        "description": "Completed in 1900 during the period of Tsarist rule in Estonia, Alexander Nevsky Cathedral is a prime example of Russian Revival architecture. The cathedral was built on Toompea Hill, deliberately placed to dominate the Tallinn skyline as a symbol of Russian influence. Its richly decorated interiors and onion domes are iconic features that draw visitors and worshippers alike, representing a period of Russification for Estonia."
+    },
+    {
+        "name": "St. Mary’s Cathedral",
+        "latitude": 59.437903,
+        "longitude": 24.73858,
+        "description": "Known locally as Toomkirik, St. Mary's Cathedral was originally built as a Catholic church in 1233 and later converted to Lutheran use during the Reformation. The cathedral is Tallinn’s oldest church and serves as the main Lutheran church in Estonia. It has undergone numerous renovations and expansions over the centuries, which can be seen in its mix of architectural styles. The church houses an impressive collection of coats of arms and tombstones of notable historical figures, reflecting its long-standing importance to the Estonian elite."
+    },
+    {
+        "name": "Patkuli Viewing Platform",
+        "latitude": 59.43825,
+        "longitude": 24.7397,
+        "description": "Offering one of the most breathtaking views of Tallinn's Old Town and the harbor, the Patkuli Viewing Platform was established in the late 19th century as part of the city's fortifications on Toompea Hill. The platform provides a strategic vantage point that overlooks the medieval cityscape, making it a popular spot for tourists and locals alike to grasp the expanse of Tallinn's historical and modern urban spread."
+    },
+    {
+        "name": "Kohtuotsa Viewing Platform",
+        "latitude": 59.437891,
+        "longitude": 24.741833,
+        "description": "Situated on the eastern side of Toompea Hill, the Kohtuotsa Viewing Platform offers expansive views over Tallinn’s red rooftops, spires, and beyond to the Gulf of Finland. It's a newer addition to the city's viewpoints, providing a picturesque panorama that encapsulates Tallinn's blend of medieval and contemporary architecture, making it a favorite spot for photographers and sightseers."
+    },
+    {
+        "name": "Danish King's Garden",
+        "latitude": 59.437215,
+        "longitude": 24.740861,
+        "description": "Hidden away on the slopes of Toompea Hill, the Danish King's Garden is said to be the spot where the Danish flag, the Dannebrog, fell from the heavens during the Battle of Lyndanisse in 1219. This small but charming garden is steeped in legend and features sculptures, including one of a monk, which commemorates the mythic origins of the Danish flag. It is a tranquil spot that offers a historical narrative central to the identity of both Estonia and Denmark."
+    },
+    {
+        "name": "St. Olav’s Church",
+        "latitude": 59.442408,
+        "longitude": 24.748486,
+        "description": "Originally built in the 12th century, St. Olav’s Church was once the tallest building in the world due to its massive spire, used as a signpost for approaching ships. Over the centuries, the church has been rebuilt several times due to damage from fires and lightning. Its towering spire still dominates Tallinn's skyline, serving as a landmark for navigation and offering a viewing platform that provides spectacular views of the city and the sea."
+    },
+    {
+        "name": "Viru Gate",
+        "latitude": 59.436592,
+        "longitude": 24.752833,
+        "description": "Part of the original fortification system built in the 14th century, Viru Gate serves as a grand entrance to Tallinn's Old Town from the eastern side. The gate is one of the few remaining parts of the city's ancient defensive walls and now functions as a pedestrian entrance, flanked by two towers and adorned with hanging flower baskets, leading directly into the vibrant Viru Street, a hub of shops and cafes."
+    },
+    {
+        "name": "Kadriorg Park",
+        "latitude": 59.438106,
+        "longitude": 24.795439,
+        "description": "Commissioned by Peter the Great in 1718, Kadriorg Park is the grandest example of park architecture in Estonia. The park features the baroque Kadriorg Palace, designed to be a summer residence for the Russian emperor. The park is an expansive green area in Tallinn, boasting manicured gardens, swan ponds, and numerous statues and monuments. It reflects the Russian imperial ambition and aesthetic, serving as a cultural venue and housing several museums, including the Kumu Art Museum, Estonia’s largest and most prestigious art venue."
+    },
+    {
+        "name": "Seaplane Harbour (Lennusadam)",
+        "latitude": 59.455203,
+        "longitude": 24.738896,
+        "description": "Opened in 2012 in a hangar originally built during the First World War, the Seaplane Harbour serves as one of Europe’s most exciting maritime museums. The museum is home to a wide array of maritime artifacts, including the century-old icebreaker Suur Tõll, submarines, and a full-scale replica of a World War I seaplane. The interactive exhibits and historic ships on display highlight Estonia’s maritime history and technological advancements."
+    },
+    {
+        "name": "Saint Catherine's Passage",
+        "latitude": 59.43795,
+        "longitude": 24.74795,
+        "description": "Nestled between Vene and Müürivahe streets, Saint Catherine's Passage is one of the most picturesque historical pathways in Tallinn. Named after the nearby St. Catherine's Church, the passage retains its medieval cobbled street charm and is lined with active artisan workshops. The passage is part of the historical route that merchants and townspeople would have used, and today it offers a glimpse into the city's vibrant past with small shops selling handmade goods and the preserved remnants of the St. Catherine's Church."
+    },
+    {
+        "name": "Pikk Street",
+        "latitude": 59.439146,
+        "longitude": 24.747378,
+        "description": "Pikk Street, which translates to 'Long Street', is one of the main streets in Tallinn's Old Town and has been a central thoroughfare since the medieval period. Historically, it was home to the town's wealthiest merchants and most influential residents, and today it is lined with impressive examples of medieval architecture, including the Great Guild Hall and the House of the Brotherhood of Blackheads. The street's historical importance as a commercial and residential area continues to be reflected in its bustling atmosphere, with numerous shops, restaurants, and cultural institutions."
+    },
+    {
+        "name": "Raeapteek (Town Hall Pharmacy)",
+        "latitude": 59.43726,
+        "longitude": 24.744997,
+        "description": "Located in the corner of the Town Hall Square, Raeapteek is one of the oldest continuously operating pharmacies in Europe, dating back to at least 1422. The pharmacy has been in operation for nearly 600 years and today doubles as a museum, showcasing antique pharmaceutical instruments, original remedies, and the history of medicine. The Raeapteek not only continues to serve its original purpose but also offers visitors a unique look into the medical practices of the past, with its interior preserved to reflect the historical operation of a pharmacy."
+    }
+]
